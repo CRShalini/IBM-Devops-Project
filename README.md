@@ -1,2 +1,2 @@
-# IBM-Devops-Project
-Infrastructure Management for Microservices using Ansible
+# IBM-DEVOPS
+Infrastructure Management for Microservices with Ansible
